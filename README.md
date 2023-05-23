@@ -1,1 +1,1 @@
-# Bachlors-thesis-sorce-code
+# Bachlors thesis sorce code
